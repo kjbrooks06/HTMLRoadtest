@@ -1,0 +1,20 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: rgb(232, 222, 211);
+}
+
+h1{
+    color:023047;
+}
+
+h2{
+    color:14213d;
+}
+
+p, ul{
+    color:003049;
+}
+
+
+
